@@ -1,0 +1,19 @@
+{
+  "name": "first_sever",
+  "version": "1.0.0",
+  "description": "our first nj server",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironvenjix/first_sever.git"
+  },
+  "author": "pratham jindal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironvenjix/first_sever/issues"
+  },
+  "homepage": "https://github.com/ironvenjix/first_sever#readme"
+}
